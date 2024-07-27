@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@pinecone-lang/pinecone-js": "^1.0.0"
+    }
+}

@@ -1,0 +1,7 @@
+# Node
+js/node_modules/
+js/package-lock.json
+
+# Dummies
+dummy.json
+dummy.pc
